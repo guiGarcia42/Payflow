@@ -6,3 +6,6 @@ A new Flutter project.
 
 This project is an application focused in organize your monthly bills.
 The app was developed while an event called NLW Together, it was made to practice and learn new flutter features and share experiences between the participants.
+
+## DevNotes
+I've had the oportunity to participate and create the application from Scratch, learning new functionalities to apply in my next projects.
